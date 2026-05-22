@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/28158755/README.3.md)# 🏎️ Predicting F1 Pit Stops — Kaggle Playground S6E5
+[README.md](https://github.com/user-attachments/files/28158759/README.3.md)# 🏎️ Predicting F1 Pit Stops — Kaggle Playground S6E5
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Playground%20S6E5-20BEFF?style=flat&logo=kaggle)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python)
