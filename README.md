@@ -1,5 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/28158720/README.2.md)
-# 🏎️ Predicting F1 Pit Stops — Kaggle Playground S6E5
+(https://github.com/user-attachments/files/28158755/README.3.md)# 🏎️ Predicting F1 Pit Stops — Kaggle Playground S6E5
 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Playground%20S6E5-20BEFF?style=flat&logo=kaggle)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python)
@@ -58,25 +57,11 @@ kaggle-f1-pitstop-prediction/
 
 ---
 
-## 📈 Progress Log
-
-| Day | What I Did |
-|-----|-----------|
-| Day 1 | Repo setup, data loading, initial exploration |
-
----
-
 ## 📊 Results
 
 | Model | AUC-ROC (CV) | AUC-ROC (LB) |
 |-------|-------------|--------------|
 | Baseline | — | — |
-
----
-
-## 💡 Key Learnings
-
-> *(Updated as the project progresses)*
 
 ---
 
